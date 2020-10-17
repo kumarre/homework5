@@ -216,7 +216,7 @@ header{
 
 @media print { 
   .card {
-    flex-basis: 200px;
+    flex-basis: 225px;
   }
   /*Your code here again.*/
   /*You will want four selectors*/  
