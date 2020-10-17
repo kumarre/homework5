@@ -189,7 +189,7 @@ header{
   /* Cards! */
   .card {
     /*Your  code here again.*/
-    flex-basis: 255px;
+    flex-basis: 225px;
   }
 
   .card_big{
@@ -216,7 +216,7 @@ header{
 
 @media print { 
   .card {
-    flex-basis: 225px;
+    flex-basis: 200px;
   }
   /*Your code here again.*/
   /*You will want four selectors*/  
